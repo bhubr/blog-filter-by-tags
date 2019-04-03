@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "My 1st post",
+    "content": "This should be very interesting",
+    "picture": "https://via.placeholder.com/200",
+    "tags": ["Web", "React"]
+  },
+  {
+    "id": 2,
+    "title": "Another brilliant post",
+    "content": "This is nice",
+    "picture": "https://via.placeholder.com/200",
+    "tags": ["Angular"]
+  }
+]
